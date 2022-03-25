@@ -1,4 +1,6 @@
-<h1 align="center">AstroVim</h1>
+<h1 align="center">My AstroVim Config</h1>
+<h2 align="center">Additions to astro</h2>
+<h3 align="center">change ladder to ';' and add vsplit + split</h3>
 
 <div align="center"><p>
     <a href="https://github.com/kabinspace/AstroVim/pulse">
